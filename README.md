@@ -24,48 +24,19 @@ Additionally, this app developed by the community, and for the community, will a
 - UI/UX skills are appreciable but not mandatory
 
 
-### Working and Screenshots
+### Tasks and Features
 
-This app opens up where you will see the option to sign up/log in to your account. After successfully logging in, you will have multiple tabs to go through. Each tab has a specific purpose. For example, the “Events” tab will list all the events taking place at certain places where you can register and attend those events.
+- Create new mock-ups for the app
+- Improve the existing UI/UX
+- Work on different cards of the app and facilitate more features
+-  Fix Bugs
+- Improve the documentation
+- Work on the corresponding website for TechEquilla:
+           - Redesign the UI/UX of the website
+           - Put in more animations
+           - Make admin panel for the website
+- Work on additional projects for the community like mass mailer,certgen,etc
 
-Following are some of the screenshots:
-
-<p>
-  <img src="https://raw.githubusercontent.com/sukkritsharmaofficial/PyDepo/master/Girlscript%20ui/Sign%20In.png" alt="feed example" width="250">
-  <img src="https://raw.githubusercontent.com/sukkritsharmaofficial/PyDepo/master/Girlscript%20ui/Home.png" alt="feed example" width="250">
-  <img src="https://raw.githubusercontent.com/sukkritsharmaofficial/PyDepo/master/Girlscript%20ui/Events.png" alt="feed example" width="250">
-  <img src="https://raw.githubusercontent.com/sukkritsharmaofficial/PyDepo/master/Girlscript%20ui/iPhone%20X-XS-11%20Pro%20%E2%80%93%204.png" alt="feed example" width="250">
-  <img src="https://raw.githubusercontent.com/sukkritsharmaofficial/PyDepo/master/Girlscript%20ui/Team.png" alt="feed example" width="250">
-  <img src="https://raw.githubusercontent.com/sukkritsharmaofficial/PyDepo/master/Girlscript%20ui/About%20us.png" alt="feed example" width="250">
-  <img src="https://raw.githubusercontent.com/sukkritsharmaofficial/PyDepo/master/Girlscript%20ui/Sign%20Up.png" alt="feed example" width="250">
-<!--   <img src="assets/images/homepage.jpg" alt="feed example"
-  width="250" >
-  <img src="assets/images/contactus.jpg" alt="feed example" width="250" > -->
-
-</p>
-
-#### Folder structure
-
-`lib` : This is where overall logic of the application lies.
-
-`lib\models` : The Entire Data Models of the application stays here.
-
-`lib\services` : The Services of the app such as notification_service lies here.
-
-`lib\ui\screens` : The Whole Application Screens lies here.
-
-`lib\ui\custom` : The Custom Widgets you created can be placed here.
-
-#### Coding Guidelines
-
-1. Try to reduce the widget tree, in the long run it might help us a lot
-2. When it comes to package version, make sure you use the correct package.
-3. Try to seperate the UI from logic.
-4. Improve Documentation, this really helps to understand code.
-5. When it comes to naming convention, maintain similarity and stability through out the app.
-6. If your dart file has more than two widgets try to create sepearate file.
-7. When it comes to scale our application, try using `provider` or something similar to that.
-8. Know well about advanced concepts in flutter and try to use them properly.
 
 ### How to contribute:
 
@@ -73,12 +44,12 @@ Following are some of the screenshots:
 ![RGSOC'20](https://img.shields.io/badge/RGSOC-20-red?style=for-the-badge)
 
 
-**1.** Fork [this](https://github.com/smaranjitghose/girlscript_app) repository.
+**1.** Fork [this](https://github.com/techequilla/community_app_boilerplate/) repository.
 
 **2.** Clone the forked repository.
 
 ```terminal
-git clone https://github.com/<your-github-username>/girlscript_app
+git clone https://github.com/<your-github-username>/community_app_boilerplate/
 ```
 
 **3.** Navigate to the project directory.
@@ -110,7 +81,7 @@ git push -u origin <your_branch_name>
 
 **8.** Create a Pull Request!
 
-**Congratulations!** Sit and relax, you've made your contribution to [Community App Boilerplate](https://github.com/smaranjitghose/girlscript_app) project.
+**Congratulations!** Sit and relax, you've made your contribution to [Community App Boilerplate](https://community_app_boilerplate/) project.
 
 ###  Resources to get started with:
 
