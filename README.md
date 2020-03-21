@@ -13,17 +13,15 @@ This app is a center to various events ranging from portraying the member’s ac
 Additionally, this app developed by the community, and for the community, will add elegance. Plus, being as an open source project, this will be a golden opportunity for beginners to learn and contribute to it just like a cherry on the cake. 
 
 
+[Link to the corresponding website](https://github.com/techequilla/community_website_boilerplate)
 
 
 ### Prerequisites to contribute
 
-- Basic knowledge of programming is mandatory
--  The ability to use Git and GitHub
-- Some knowledge of Dart and how to use Flutter is preferrable for a head start.
-- UI/UX Design skills are appreciable but not mandatory
-- Some idea about Firebase or willingness to learn it
-- Basics of HTML,CSS , Javascript
-- Ability to use Gatsby or React is a big plus
+- Ability to use Git and Github
+- Basic knowledge of Dart and Flutter
+- Basic knowledge of Firebase and willingness to learn more
+- UI/UX skills are appreciable but not mandatory
 
 
 ### Working and Screenshots
@@ -46,6 +44,17 @@ Following are some of the screenshots:
 
 </p>
 
+#### Folder structure
+
+`lib` : This is where overall logic of the application lies.
+
+`lib\models` : The Entire Data Models of the application stays here.
+
+`lib\services` : The Services of the app such as notification_service lies here.
+
+`lib\ui\screens` : The Whole Application Screens lies here.
+
+`lib\ui\custom` : The Custom Widgets you created can be placed here.
 
 #### Coding Guidelines
 
@@ -75,7 +84,7 @@ git clone https://github.com/<your-github-username>/girlscript_app
 **3.** Navigate to the project directory.
 
 ```terminal
-cd girlscript_app
+cd community_app_boilerplate
 ```
 
 **4.** Create a new branch.
@@ -101,7 +110,7 @@ git push -u origin <your_branch_name>
 
 **8.** Create a Pull Request!
 
-**Congratulations!** Sit and relax, you've made your contribution to [GirlScript App](https://github.com/smaranjitghose/girlscript_app) project.
+**Congratulations!** Sit and relax, you've made your contribution to [Community App Boilerplate](https://github.com/smaranjitghose/girlscript_app) project.
 
 ###  Resources to get started with:
 
