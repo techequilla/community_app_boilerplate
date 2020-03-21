@@ -11,27 +11,19 @@
 A boilerplate for any technical community to pick up and use for their own without any hastle
 This app is a center to various events ranging from portraying the member’s achievements to announcing the upcoming opportunities. 
 Additionally, this app developed by the community, and for the community, will add elegance. Plus, being as an open source project, this will be a golden opportunity for beginners to learn and contribute to it just like a cherry on the cake. 
-This app is a center to various events ranging from portraying the member’s achievements to announcing the upcoming opportunities.
-Additionally, this app developed by the community, and for the community, will add elegance. Plus, being as an open source project, this will be a golden opportunity for beginners to learn and contribute to it just like a cherry on the cake.
 
-### Mission
 
-- To empower people and specially under represented groups by educating them on technology and related necessary skills.
-- To create local opportunity ,growth and impact via tech education in every country around the world and bring diversity in tech domain.
 
-### Goals
-
-- To educate people in tech.
-- Remove myths about tech education.
-- Spread awareness about opportunities in tier two and tier three cities .
-- Introduce tech content that is helpful for everyone.
 
 ### Prerequisites to contribute
 
-- Ability to use Git and Github
-- Basic knowledge of Dart and Flutter
-- Basic knowledge of Firebase and willingness to learn more
-- UI/UX skills are appreciable but not mandatory
+- Basic knowledge of programming is mandatory
+-  The ability to use Git and GitHub
+- Some knowledge of Dart and how to use Flutter is preferrable for a head start.
+- UI/UX Design skills are appreciable but not mandatory
+- Some idea about Firebase or willingness to learn it
+- Basics of HTML,CSS , Javascript
+- Ability to use Gatsby or React is a big plus
 
 
 ### Working and Screenshots
@@ -54,17 +46,6 @@ Following are some of the screenshots:
 
 </p>
 
-#### Folder structure
-
-`lib` : This is where overall logic of the application lies.
-
-`lib\models` : The Entire Data Models of the application stays here.
-
-`lib\services` : The Services of the app such as notification_service lies here.
-
-`lib\ui\screens` : The Whole Application Screens lies here.
-
-`lib\ui\custom` : The Custom Widgets you created can be placed here.
 
 #### Coding Guidelines
 
