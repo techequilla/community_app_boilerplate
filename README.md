@@ -14,7 +14,6 @@ Additionally, this app developed by the community, and for the community, will a
 This app is a center to various events ranging from portraying the member’s achievements to announcing the upcoming opportunities.
 Additionally, this app developed by the community, and for the community, will add elegance. Plus, being as an open source project, this will be a golden opportunity for beginners to learn and contribute to it just like a cherry on the cake.
 
-###  Mission
 ### Mission
 
 - To empower people and specially under represented groups by educating them on technology and related necessary skills.
@@ -122,9 +121,6 @@ git push -u origin <your_branch_name>
 **8.** Create a Pull Request!
 
 **Congratulations!** Sit and relax, you've made your contribution to [GirlScript App](https://github.com/smaranjitghose/girlscript_app) project.
-
-### Resources to get started with:
-
 
 ###  Resources to get started with:
 
