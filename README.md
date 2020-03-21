@@ -127,14 +127,6 @@ git push -u origin <your_branch_name>
 
 
 ###  Resources to get started with:
-+  [Dart Programming](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
-+  [Flutter Crash Course](https://www.youtube.com/watch?v=pTJJsmejUOQ)
-+  [Firebase and Flutter  App Build](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
-+  [Reso Code's Youtube Channel for best practices](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA/featured)
-+  [Official Flutter Documentation](https://flutter.dev/docs)
-+  [Hyper Text Markup Language](https://www.w3schools.com/html/html_intro.asp)
-+ [Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-+ [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 - [Dart Programming](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
 - [Flutter Crash Course](https://www.youtube.com/watch?v=pTJJsmejUOQ)
@@ -149,7 +141,6 @@ git push -u origin <your_branch_name>
 * Smaranjit Ghose
 
  <a href="https://github.com/smaranjitghose"><img src="assets/Icons/GitHub_Mark.png" width=55></a>
-- Smaranjit Ghose
 ![](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fsmaranjitghose)
 
 ### Mentors:
