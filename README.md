@@ -1,13 +1,15 @@
-# Community App Boilerplate
+# 🙆 Techequilla
 
-![Issues](https://img.shields.io/github/issues/smaranjitghose/girlscript_app)
-![Pull Requests](https://img.shields.io/github/issues-pr/smaranjitghose/girlscript_app)
-![Forks](https://img.shields.io/github/forks/smaranjitghose/girlscript_app)
-![Stars](https://img.shields.io/github/stars/smaranjitghose/girlscript_app)
-[![License](https://img.shields.io/github/license/smaranjitghose/girlscript_app)](https://github.com/smaranjitghose/girlscript_app/blob/master/LICENSE)
+### Community App Boilerplate
+
+![Issues](https://img.shields.io/github/issues/techequilla/community_app_boilerplate)
+![Pull Requests](https://img.shields.io/github/issues-pr/techequilla/community_app_boilerplate)
+![Forks](https://img.shields.io/github/forks/techequilla/community_app_boilerplate)
+![Stars](https://img.shields.io/github/stars/techequilla/community_app_boilerplate)
+[![License](https://img.shields.io/github/license/techequilla/community_app_boilerplate)](https://github.com/smaranjitghose/girlscript_app/blob/master/LICENSE)
 [![Gitter](https://badges.gitter.im/girlscript_app/community.svg)](https://gitter.im/girlscript_app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-
+## 🙇 Description
 A boilerplate for any technical community to pick up and use for their own without any hastle
 This app is a center to various events ranging from portraying the member’s achievements to announcing the upcoming opportunities. 
 Additionally, this app developed by the community, and for the community, will add elegance. Plus, being as an open source project, this will be a golden opportunity for beginners to learn and contribute to it just like a cherry on the cake. 
@@ -16,18 +18,18 @@ Additionally, this app developed by the community, and for the community, will a
 [Link to the corresponding website](https://github.com/techequilla/community_website_boilerplate)
 
 
-### Prerequisites to contribute
+### 👇 Prerequisites to contribute
 
 - Ability to use Git and Github
 - Basic knowledge of Dart and Flutter
 - Basic knowledge of Firebase and willingness to learn more
 - UI/UX skills are appreciable but not mandatory
 
+## 📷 Snapshots and Guide to Each Section
+The snapshots and guide to each section can be found in [`Guide.md`](guide.md)
 
 ### Tasks and Features
 
-- Create new mock-ups for the app
-- Improve the existing UI/UX
 - Work on different cards of the app and facilitate more features
 -  Fix Bugs
 - Improve the documentation
@@ -40,46 +42,10 @@ Additionally, this app developed by the community, and for the community, will a
 
 ### How to contribute:
 
-![GSSOC'20](https://img.shields.io/badge/GSSOC-20-orange?style=for-the-badge)
 ![RGSOC'20](https://img.shields.io/badge/RGSOC-20-red?style=for-the-badge)
 
+You can now easily contribute! View [`Contributing.md`](CONTRIBUTING.md) for a step by step guide.
 
-**1.** Fork [this](https://github.com/techequilla/community_app_boilerplate/) repository.
-
-**2.** Clone the forked repository.
-
-```terminal
-git clone https://github.com/<your-github-username>/community_app_boilerplate/
-```
-
-**3.** Navigate to the project directory.
-
-```terminal
-cd community_app_boilerplate
-```
-
-**4.** Create a new branch.
-
-```terminal
-git checkout -b <your_branch_name>
-```
-
-**5.** Make changes in source code.
-
-**6.** Commit your changes.
-
-```terminal
-  git add .
-  git commit -m "<your_commit_message>"
-```
-
-**7.** Push your local branch to the remote repository.
-
-```terminal
-git push -u origin <your_branch_name>
-```
-
-**8.** Create a Pull Request!
 
 **Congratulations!** Sit and relax, you've made your contribution to [Community App Boilerplate](https://community_app_boilerplate/) project.
 
@@ -94,22 +60,15 @@ git push -u origin <your_branch_name>
 - [Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
-### Project Admin:
-* Smaranjit Ghose
+## 👨 Project Admin
 
- <a href="https://github.com/smaranjitghose"><img src="assets/Icons/GitHub_Mark.png" width=55></a>
-![](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fsmaranjitghose)
+- [Smaranjit Ghose](https://github.com/smaranjitghose)
 
-### Mentors:
+## 👬  Mentors
 
-- Sukkrit Sharma
-  <a href="https://github.com/sukkritsharmaofficial"><img src="assets/Icons/GitHub_Mark.png" width=20></a>
+- [Sukkrit Sharma](https://github.com/sukkritsharmaofficial)
+- [Saswat Nayak](https://github.com/swat1998)
+- [Ousnik Polley](https://github.com/ousnik)
+- [Anush Bhatia](https://github.com/anushbhatia)
 
-- Saswat Nayak
-  <a href="https://github.com/swat1998"><img src="assets/Icons/GitHub_Mark.png" width=20></a>
-
-- Anush Bhatia
-  <a href="https://github.com/anushbhatia"><img src="assets/Icons/GitHub_Mark.png" width=20></a>
-
-- Ousnik Polley
-  <a href="https://github.com/ousnik"><img src="assets/Icons/GitHub_Mark.png" width=20></a>
+Feel free to ask your queries!! 🙌
