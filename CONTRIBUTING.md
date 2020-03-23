@@ -1,5 +1,5 @@
-# GirlScript Community App - How to Contribute?
-<p align="center"><img width=30% src="assets/images/gslogo.png"></p>
+# Techequilla Community App - How to Contribute?
+
 
 ## Introduction
 
@@ -28,7 +28,7 @@ The [Project Team](#team) looks forward to your contributions. 🙌🏾✨
 
 If you have a question about this project, how to use it, or just need clarification about something:
 
-* Open an Issue at https://github.com/smaranjitghose/girlscript_app/issues
+* Open an Issue at https://github.com/techequilla/community_app_boilerplate/issues
 * Provide as much context as you can about what you're running into.
 * Provide project and platform versions (nodejs, npm, etc), depending on what seems relevant. If not, please be ready to provide that information if maintainers ask for it.
 
@@ -41,7 +41,7 @@ Once it's filed:
 
 If you run into an error or bug with the project:
 
-* Open an Issue at https://github.com/smaranjitghose/girlscript_app/issues
+* Open an Issue at https://github.com/techequilla/community_app_boilerplate/issues
 * Include *reproduction steps* that someone else can follow to recreate the bug or error on their own.
 * Provide project and platform versions (dart, flutter, etc), depending on what seems relevant. If not, please be ready to provide that information if maintainers ask for it.
 
@@ -55,7 +55,7 @@ Once it's filed:
 
 If the project doesn't do something you need or want it to do:
 
-* Open an Issue at https://github.com/smaranjitghose/girlscript_app/issues
+* Open an Issue at https://github.com/techequilla/community_app_boilerplate/issues
 * Provide as much context as you can about what you're running into.
 * Please try and be clear about why existing features and alternatives would not work for you.
 
@@ -83,26 +83,9 @@ First off, thanks for taking the time to contribute!
 
 The following is a set of guide for all the contributors on how they can help and contribute in this project. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
-### What should I know before I get started?
-- Basic knowledge of programming
-- Ability to use Git and Github
-- Basic knowledge of Dart
-- Working knowledge of Flutter is preferable
-- Basic knowledge of Firebase and willingness to learn more
-- UI/UX skills are appreciable but not mandatory
-
-## Technology Stack Used
-- Flutter
-- Dart
-- Google Firebase
-- HTML
-- CSS
-- JavaScript
-- UI / UX
-
 ## How to contribute:
 
-**1.** Fork [this](https://github.com/smaranjitghose/girlscript_app) repository.
+**1.** Fork [this](https://github.com/techequilla/community_app_boilerplate) repository.
 
 **2.** Clone the forked repository.
 ```terminal
@@ -141,42 +124,8 @@ git push -u origin <your_branch_name>
 
 **Note: Make Pull Request to the test branch instead of master branch.**
 
-**Congratulations!** Sit and relax, you've made your contribution to [GirlScript App](https://github.com/smaranjitghose/girlscript_app) project.
-
-## Your First Code Contribution
-
-Unsure where to begin contributing? You can start by looking through these `good first issue`,`beginner` and `documentation` issues:
-
-* [Documentation Issues](https://github.com/smaranjitghose/girlscript_app/labels/documentation) - issues which should only require some form of documentation for the project.
-* [Good First Issues](https://github.com/smaranjitghose/girlscript_app/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) - issues which are considered good for newcomers.
-* [Beginner issues](https://github.com/smaranjitghose/girlscript_app/labels/beginner) - issues which should only require a few lines of code.
-
-* For more detailed information for creating an issue, visit our [ Slack Channel](https://gssoc20.slack.com/archives/CUCALT345).
-
-### Tasks 
-- Improve the UI
-- Work on the improvement and building the various pages of the app
-- Database integration with Firebase
-- Have a corresponding Web App for this
-- Analyze further design requirements and integrate
-
 ## Code of Conduct
 Please note we have a code of conduct, please follow it in all your interactions with the project. This project and everyone participating in it is governed by the [Girlscript Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [smaranjitghose@protonmail.com](mailto:smaranjitghose@protonmail.com).
-
-## Team
-
-### Project Admin:
-* [Smaranjit Ghose](https://github.com/smaranjitghose)
-
-![](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fsmaranjitghose)
-
-### Mentors:
-* [Sukkrit Sharma](https://github.com/sukkritsharmaofficial)
-* [Saswat Nayak](https://github.com/swat1998)
-* [Anush Bhatia](https://github.com/anushbhatia)
-* [Ousnik Polley](https://github.com/ousnik)
-
-
 
 MIT License &copy; [Smaranjit Ghose](https://github.com/smaranjitghose/girlscript_app/blob/master/LICENSE)
 
