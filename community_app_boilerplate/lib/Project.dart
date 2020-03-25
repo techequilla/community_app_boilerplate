@@ -1,10 +1,8 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:noob_project/SocialIcons.dart';
-import 'package:noob_project/projectDetail.dart';
 import 'package:url_launcher/url_launcher.dart';
+
 import 'projectData.dart';
-import 'package:noob_project/my_flutter_app_icons.dart';
 
 class Projectpage extends StatelessWidget{
   @override

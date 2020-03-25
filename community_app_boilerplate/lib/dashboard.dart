@@ -1,11 +1,12 @@
 import 'package:flutter/material.dart';
 // Used this package for the UI of bottom navigation bar
 import 'package:bubble_bottom_bar/bubble_bottom_bar.dart';
-import 'package:noob_project/AboutUs.dart';
-import 'package:noob_project/Events.dart';
-import 'package:noob_project/Project.dart';
-import 'package:noob_project/home.dart';
-import 'package:noob_project/team.dart';
+
+import 'Project.dart';
+import 'ui/screens/AboutUs.dart';
+import 'ui/screens/Events.dart';
+import 'ui/screens/home.dart';
+import 'ui/screens/team.dart';
 
 //The BottomNavigationBar of the application is developed here
 class Dashboard extends StatefulWidget {

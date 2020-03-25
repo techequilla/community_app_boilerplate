@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:noob_project/contributors.dart';
-import 'package:noob_project/developers.dart';
 import 'package:url_launcher/url_launcher.dart';
+
+import 'ui/custom/developers.dart';
 
 class ProjectDetails extends StatefulWidget {
   @override
