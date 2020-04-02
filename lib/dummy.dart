@@ -1,15 +1,57 @@
 import 'package:flutter/material.dart';
 
-class Dummy extends StatelessWidget{
+import 'home_page.dart';
+
+class Dummy extends StatefulWidget{
+  Dummy({Key key}) : super(key: key);
+
   @override
-  Widget build(BuildContext context){
+  HomePageState createState() => HomePageState();
+}
+
+class HomePageState extends State<Dummy> {
+  int selectedIndex = 0;
+  final widgetOptions = [
+    Home(),
+    Text('Announcements'),
+    Text('Achievements'),
+    Text('Team'),
+    Text('Contact Us'),
+  ];
+
+  @override
+  Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title:Text("Dummy"),
+        title: Text('Techequilla'),
       ),
       body: Center(
-          child: Text('IF YOU SEE THIS PAGE, THIS PAGE NEEDS TO BE CHANGED. REFER TO THE MARK DOWN FILE IN THIS DIRECTORY')
-        ),
+        child: widgetOptions.elementAt(selectedIndex),
+      ),
+      bottomNavigationBar: BottomNavigationBar(
+        items: <BottomNavigationBarItem>[
+          BottomNavigationBarItem(
+              icon: Icon(Icons.home), title: Text('Home')),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.announcement), title: Text('Announcements')),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.verified_user), title: Text('Achievements')),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.supervisor_account), title: Text('Team')),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.contact_mail), title: Text('Contact Us')),
+        ],
+        currentIndex: selectedIndex,
+        fixedColor: Colors.pink,
+        onTap: onItemTapped,
+        unselectedItemColor: Colors.blueGrey[400],
+      ),
     );
+  }
+
+  void onItemTapped(int index) {
+    setState(() {
+      selectedIndex = index;
+    });
   }
 }
