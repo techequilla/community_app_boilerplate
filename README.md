@@ -15,8 +15,9 @@ This app is a center to various events ranging from portraying the member’s ac
 Additionally, this app developed by the community, and for the community, will add elegance. Plus, being as an open source project, this will be a golden opportunity for beginners to learn and contribute to it just like a cherry on the cake. 
 
 
-[Link to the corresponding website](https://github.com/techequilla/community_website_boilerplate)
-[Link to the UI/UX Design for the app](https://www.figma.com/file/oSY2N70czTP6UhGyzZknXN/Techequilla?node-id=0%3A1)
+- [Link to the corresponding website](https://github.com/techequilla/community_website_boilerplate)
+
+- [Link to the UI/UX Design for the app](https://www.figma.com/file/oSY2N70czTP6UhGyzZknXN/Techequilla?node-id=0%3A1)
 
 
 ### 👇 Prerequisites to contribute
