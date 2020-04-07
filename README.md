@@ -31,6 +31,11 @@ Currently this is a part of Rails Girls Summer of Code'2020
 |-----------------|-----------------|-----------------|-----------------|
 |![Sign In](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Sign%20In.png)|![Sign Up](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Sign%20Up.png)|![Profile Page](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Profile.png)|![Team Page](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Team.png)|
 
+
+|Notifications|Posts|Projects Page|Milestones Page|
+|-----------------|-----------------|-----------------|-----------------|
+|![Notification](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Notification.png)|![Posts](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Post.png)|![Projects Page](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Projects.png)|![Milestone Page](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Milestone.png)|
+
 ## Contribution Guidelines
 
 #### 👇 Prerequisites:
@@ -109,7 +114,7 @@ git push -u origin <your_branch_name>
 
 #### Code of Conduct:
 
-[Make sure you don't violate this](https://github.com/techequilla/community_app_boilerplate/blob/master/CODE_OF_CONDUCT)
+[Make sure you don't violate this](https://github.com/techequilla/community_app_boilerplate/blob/master/CODE_OF_CONDUCT.md)
 
 ## 👨 Project Admin
 
