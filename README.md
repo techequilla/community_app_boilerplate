@@ -4,7 +4,7 @@
 ![Stars](https://img.shields.io/github/stars/techequilla/community_app_boilerplate)
 ![Issues](https://img.shields.io/github/issues/techequilla/community_app_boilerplate)
 ![Pull Requests](https://img.shields.io/github/issues-pr/techequilla/community_app_boilerplate)
-[![License](https://img.shields.io/github/license/techequilla/community_app_boilerplate)](https://github.com/techequilla/community_app_boilerplate/blob/master/LICENSE))
+[![License](https://img.shields.io/github/license/techequilla/community_app_boilerplate)](https://github.com/techequilla/community_app_boilerplate/blob/master/LICENSE)
 [![Gitter](https://badges.gitter.im/girlscript_app/community.svg)](https://gitter.im/girlscript_app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 This is an open source project for creating a Flutter app that shall serve as a template/boilerplate for various technical communities, clubs, organizations, etc to use . 
