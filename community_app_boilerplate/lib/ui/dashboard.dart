@@ -24,10 +24,9 @@ class _DashboardState extends State<Dashboard> {
         controller: _pageController,
           children: <Widget>[
             Home(),
-            Center(child:Text("EVENTS")),
+            Center(child:Text("PROJECTS")),
             Center(child:Text("MILESTONES")),
             Center(child:Text("TEAM")),
-            Center(child:Text("PROFILE"))
           ],
           onPageChanged: (int index){
             setState(() {
@@ -85,15 +84,36 @@ class _DashboardState extends State<Dashboard> {
               'TEAM',
             ),
           ),
-          BottomNavigationBarItem(
-            icon: Icon(
-              Icons.account_box,
-            ),
-            title: Text(
-              'PROFILE',
-            ),
-          ),
         ]
+      ),
+
+      appBar: AppBar(
+        backgroundColor: Colors.black,
+        leading: Padding(
+          padding: EdgeInsets.only(left: 12),
+          child: IconButton(
+            icon: Icon(Icons.account_circle),
+            onPressed: () {
+              print('Account');
+            },
+          ),
+        ),
+
+        title: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children:<Widget>[
+              Text('Basic AppBar'),
+            ]
+        ),
+
+        actions: <Widget>[
+          IconButton(
+            icon: Icon(Icons.notifications),
+            onPressed: () {
+              print('Notifications');
+            },
+          ),
+        ],
       ),
     );
   }
