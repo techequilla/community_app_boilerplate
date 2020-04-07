@@ -1,4 +1,4 @@
-# 🙆 Techequilla
+# 🙆 Techequilla-Community App Boilerplate
 
 ### Community App Boilerplate
 
@@ -10,21 +10,23 @@
 [![Gitter](https://badges.gitter.im/girlscript_app/community.svg)](https://gitter.im/girlscript_app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## 🙇 Description
-A boilerplate for any technical community to pick up and use for their own without any hastle
-This app is a center to various events ranging from portraying the member’s achievements to announcing the upcoming opportunities. 
-Additionally, this app developed by the community, and for the community, will add elegance. Plus, being as an open source project, this will be a golden opportunity for beginners to learn and contribute to it just like a cherry on the cake. 
+
+This is an open source project for creating a Flutter app that shall serve as a template/boilerplate for various technical communities, clubs, organizations, etc to use . 
+
+With certain modifications to the content specific to the communinity or group using this, the need to build an app from scratch and the pains of fixing bugs and figuring out what part fits where is eliminated. Feel free to use this!. If this project helps out, we would be grateful, if you could give us a mention. Also, we would love to see your version of the same! Do a give a PR for a different branch that showcases how you used this!
+
+This project is also meant to be a starting for all techies interested to get their hands dirty in open-source contributions. A highlight of this project being this project is "built by the community for the community". This takes off from the similar effort by the [project admin](https://github.com/smaranjitghose) for GirlScript Summer of Code in the following projects:
+- [GirlScript Chapter Website Template](https://github.com/smaranjitghose/girlscript_chennai_website)
+- [GirlScript Chapters App Template](https://github.com/smaranjitghose/girlscript_app)
 
 
-- [Link to the corresponding website](https://github.com/techequilla/community_website_boilerplate)
+Currently this is a part of Rails Girls Summer of Code'2020
 
-### 👇 Prerequisites to contribute
+## A follow up project
 
-- Ability to use Git and Github
-- Basic knowledge of Dart and Flutter
-- Basic knowledge of Firebase and willingness to learn more
-- UI/UX skills are appreciable but not mandatory
+- [Link to the corresponding website template](https://github.com/techequilla/community_website_boilerplate)
 
-## 📷 A peek at the current UI of the app:
+## 📷 A sneak peek at the current UI of the app:
 
 
 - [Click here to Access it](https://www.figma.com/file/oSY2N70czTP6UhGyzZknXN/Techequilla?node-id=0%3A1)
@@ -32,6 +34,14 @@ Additionally, this app developed by the community, and for the community, will a
 |Sign In Page|Sign Up Page|Profile Page|Team Page|
 |-----------------|-----------------|-----------------|-----------------|
 |![Sign In](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Sign%20In.png)|![Sign Up](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Sign%20Up.png)|![Profile Page](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Profile.png)|![Team Page](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Team.png)|
+
+
+### 👇 Prerequisites to contribute
+
+- Ability to use Git and Github is mandatory
+- Working knowledge of Dart and Flutter
+- Basic knowledge of Firebase is a plus and willingness to learn more
+- UI/UX skills are appreciable but not mandatory
 
 ### Tasks and Features
 
@@ -69,11 +79,13 @@ You can now easily contribute! View [`Contributing.md`](CONTRIBUTING.md) for a s
 
 - [Smaranjit Ghose](https://github.com/smaranjitghose)
 
-## 👬  Mentors
+## 👬  Mentors and Project Maintainers
 
 - [Sukkrit Sharma](https://github.com/sukkritsharmaofficial)
 - [Saswat Nayak](https://github.com/swat1998)
 - [Ousnik Polley](https://github.com/ousnik)
 - [Anush Bhatia](https://github.com/anushbhatia)
 
-Feel free to ask your queries!! 🙌
+# License 📜
+
+[MIT License](https://github.com/techequilla/community_app_boilerplate/blob/master/LICENSE)
