@@ -1,12 +1,10 @@
 # 🙆 Techequilla-Community App Boilerplate
 
-### Community App Boilerplate
-
-![Issues](https://img.shields.io/github/issues/techequilla/community_app_boilerplate)
-![Pull Requests](https://img.shields.io/github/issues-pr/techequilla/community_app_boilerplate)
 ![Forks](https://img.shields.io/github/forks/techequilla/community_app_boilerplate)
 ![Stars](https://img.shields.io/github/stars/techequilla/community_app_boilerplate)
-[![License](https://img.shields.io/github/license/techequilla/community_app_boilerplate)](https://github.com/smaranjitghose/girlscript_app/blob/master/LICENSE)
+![Issues](https://img.shields.io/github/issues/techequilla/community_app_boilerplate)
+![Pull Requests](https://img.shields.io/github/issues-pr/techequilla/community_app_boilerplate)
+[![License](https://img.shields.io/github/license/techequilla/community_app_boilerplate)](https://github.com/techequilla/community_app_boilerplate/blob/master/LICENSE))
 [![Gitter](https://badges.gitter.im/girlscript_app/community.svg)](https://gitter.im/girlscript_app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## 🙇 Description
@@ -35,15 +33,72 @@ Currently this is a part of Rails Girls Summer of Code'2020
 |-----------------|-----------------|-----------------|-----------------|
 |![Sign In](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Sign%20In.png)|![Sign Up](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Sign%20Up.png)|![Profile Page](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Profile.png)|![Team Page](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Team.png)|
 
+## Contribution Guidelines
 
-### 👇 Prerequisites to contribute
+#### 👇 Prerequisites:
 
 - Ability to use Git and Github is mandatory
 - Working knowledge of Dart and Flutter
 - Basic knowledge of Firebase is a plus and willingness to learn more
 - UI/UX skills are appreciable but not mandatory
 
-### Tasks and Features
+#### Suggested Resources for picking up on the skills:
+
+- [Dart Programming](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
+- [Flutter Crash Course](https://www.youtube.com/watch?v=pTJJsmejUOQ)
+- [Firebase and Flutter App Build](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
+- [Reso Code's Youtube Channel for best practices](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA/featured)
+- [Official Flutter Documentation](https://flutter.dev/docs)
+- [Hyper Text Markup Language](https://www.w3schools.com/html/html_intro.asp)
+- [Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+
+
+#### Steps:
+
+![RGSOC'20](https://img.shields.io/badge/RGSOC-20-red?style=for-the-badge)
+
+**1.** Fork [this](https://github.com/techequilla/community_app_boilerplate) repository.
+
+**2.** Clone your forked repository to your local system.
+
+```terminal
+git clone https://github.com/<your-github-username>/community_app_boilerplate
+```
+
+**3.** Navigate to the project directory.
+
+```terminal
+cd community_app_boilerplate
+```
+
+**4.** Create a new branch.
+
+```terminal
+git checkout -b <your_branch_name>
+```
+
+**5.** Make changes in source code.
+
+**6.** Commit your changes.
+
+```terminal
+  git add .
+  git commit -m "<your_commit_message>"
+```
+
+**7.** Push your local branch to the remote repository.
+
+```terminal
+git push -u origin <your_branch_name>
+```
+
+**8.** Create a Pull Request!
+
+
+**Congratulations!** Sit and relax, you've made your contribution to [Community App Boilerplate](https://github.com/techequilla/community_app_boilerplate) project.
+
+#### Tasks:
 
 - Work on different cards of the app and facilitate more features
 -  Fix Bugs
@@ -54,26 +109,9 @@ Currently this is a part of Rails Girls Summer of Code'2020
            - Make admin panel for the website
 - Work on additional projects for the community like mass mailer,certgen,etc
 
+#### Code of Conduct:
 
-### How to contribute:
-
-![RGSOC'20](https://img.shields.io/badge/RGSOC-20-red?style=for-the-badge)
-
-You can now easily contribute! View [`Contributing.md`](CONTRIBUTING.md) for a step by step guide.
-
-
-**Congratulations!** Sit and relax, you've made your contribution to [Community App Boilerplate](https://community_app_boilerplate/) project.
-
-###  Resources to get started with:
-
-- [Dart Programming](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
-- [Flutter Crash Course](https://www.youtube.com/watch?v=pTJJsmejUOQ)
-- [Firebase and Flutter App Build](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
-- [Reso Code's Youtube Channel for best practices](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA/featured)
-- [Official Flutter Documentation](https://flutter.dev/docs)
-- [Hyper Text Markup Language](https://www.w3schools.com/html/html_intro.asp)
-- [Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+[Make sure you don't violate this](https://github.com/techequilla/community_app_boilerplate/blob/master/CODE_OF_CONDUCT)
 
 ## 👨 Project Admin
 
