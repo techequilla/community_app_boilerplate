@@ -17,9 +17,6 @@ Additionally, this app developed by the community, and for the community, will a
 
 - [Link to the corresponding website](https://github.com/techequilla/community_website_boilerplate)
 
-- [Link to the UI/UX Design for the app](https://www.figma.com/file/oSY2N70czTP6UhGyzZknXN/Techequilla?node-id=0%3A1)
-
-
 ### 👇 Prerequisites to contribute
 
 - Ability to use Git and Github
@@ -27,8 +24,14 @@ Additionally, this app developed by the community, and for the community, will a
 - Basic knowledge of Firebase and willingness to learn more
 - UI/UX skills are appreciable but not mandatory
 
-## 📷 Snapshots and Guide to Each Section
-The snapshots and guide to each section can be found in [`Guide.md`](guide.md)
+## 📷 A peek at the current UI of the app:
+
+
+- [Click here to Access it](https://www.figma.com/file/oSY2N70czTP6UhGyzZknXN/Techequilla?node-id=0%3A1)
+
+|Sign In Page|Sign Up Page|Profile Page|Team Page|
+|-----------------|-----------------|-----------------|-----------------|
+|![Sign In](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Sign%20In.png)|![Sign Up](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Sign%20Up.png)|![Profile Page](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Profile.png)|![Team Page](https://github.com/techequilla/community_app_boilerplate/blob/master/mockup/Team.png)|
 
 ### Tasks and Features
 
