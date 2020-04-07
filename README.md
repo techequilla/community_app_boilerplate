@@ -16,6 +16,7 @@ Additionally, this app developed by the community, and for the community, will a
 
 
 [Link to the corresponding website](https://github.com/techequilla/community_website_boilerplate)
+[Link to the UI/UX Design for the app](https://www.figma.com/file/oSY2N70czTP6UhGyzZknXN/Techequilla?node-id=0%3A1)
 
 
 ### 👇 Prerequisites to contribute
