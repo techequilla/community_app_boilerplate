@@ -1,3 +1,6 @@
+![App Icon](https://github.com/techequilla/community_app_boilerplate/blob/master/community_app_boilerplate/assets/icon/techequilla_app_icon.jpeg)
+
+
 # 🙆 Techequilla-Community App Boilerplate
 
 ![Forks](https://img.shields.io/github/forks/techequilla/community_app_boilerplate)
