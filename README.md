@@ -126,7 +126,7 @@ git push -u origin <your_branch_name>
 [Make sure you don't violate this](https://github.com/techequilla/community_app_boilerplate/blob/master/CODE_OF_CONDUCT.md)
 
 ## 👨 Project Admin
-![Adminr](https://media.giphy.com/media/26wkRxKJ9yUZzlorK/giphy.gif)
+![Admin](https://media.giphy.com/media/26wkRxKJ9yUZzlorK/giphy.gif)
 
  [Smaranjit Ghose](https://github.com/smaranjitghose)
 
