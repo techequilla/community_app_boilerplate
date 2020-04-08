@@ -46,14 +46,15 @@ flutter:
     - assets/icon/techequilla_app_icon.jpeg
     - assets/icon/techequilla_app_icon_v2.png
 
-  fonts:
-    - family: Montserrat
-      fonts:
-        - asset: assets/fonts/Montserrat-SemiBold.ttf
-        - asset: assets/fonts/Montserrat-Bold.ttf
-          weight: 700
-    - family: Poppins
-      fonts:
-        - asset: assets/fonts/Poppins-Regular.ttf
+#This font family currently not available in assests forlder.So, Its commented currently.
+#  fonts:
+#    - family: Montserrat
+#      fonts:
+#        - asset: assets/fonts/Montserrat-SemiBold.ttf
+#        - asset: assets/fonts/Montserrat-Bold.ttf
+#          weight: 700
+#    - family: Poppins
+#      fonts:
+#        - asset: assets/fonts/Poppins-Regular.ttf
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
