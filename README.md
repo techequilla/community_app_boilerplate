@@ -112,13 +112,15 @@ git push -u origin <your_branch_name>
 
 ![Tasks](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-- Work on different cards of the app and facilitate more features
--  Fix Bugs
-- Improve the documentation
-- Work on the corresponding website for TechEquilla:
-           - Redesign the UI/UX of the website
-           - Put in more animations
-           - Make admin panel for the website
+- Improve the UI/UX of the app
+- Work on the pages of the app
+- Fix bugs
+- Add more features like speech to text,etc
+- Improve the documenation of the project
+- Create a GUIDE.MD file instruction which parts of the code base can be modified for someone to put in their own content and use the app per their needs
+- Firebase integration
+- Making Android and IOS applications
+- Publishing it on App Store
 - Work on additional projects for the community like mass mailer,certgen,etc
 
 #### Code of Conduct:
