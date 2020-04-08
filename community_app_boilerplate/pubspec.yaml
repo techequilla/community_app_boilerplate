@@ -1,4 +1,4 @@
-name: Community App Boilerplate
+name: Community_App_Boilerplate
 description: This is an open source project for creating a Flutter app that shall serve as a template/boilerplate for various technical communities, clubs, organizations, etc to use . 
 
 # The following defines the version and build number for your application.
@@ -43,14 +43,8 @@ flutter:
 
 
   assets:
-    - assets/images/gs_launcher.png
-    - assets/images/code.png
-    - assets/images/github.png
-    - assets/images/google.png
-    - assets/images/linkedin.png
-    - assets/images/flutter1.png
-    - assets/images/announcement1.jpg
-    - assets/images/announcement2.jpg
+    - assets/icon/techequilla_app_icon.jpeg
+    - assets/icon/techequilla_app_icon_v2.png
 
   fonts:
     - family: Montserrat
