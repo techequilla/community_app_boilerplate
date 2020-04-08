@@ -43,14 +43,8 @@ flutter:
 
 
   assets:
-    - assets/images/gs_launcher.png
-    - assets/images/code.png
-    - assets/images/github.png
-    - assets/images/google.png
-    - assets/images/linkedin.png
-    - assets/images/flutter1.png
-    - assets/images/announcement1.jpg
-    - assets/images/announcement2.jpg
+    - assets/icon/techequilla_app_icon.jpeg
+    - assets/icon/techequilla_app_icon_v2.png
 
   fonts:
     - family: Montserrat
