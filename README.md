@@ -1,4 +1,5 @@
-# 🙆 Techequilla-Community App Boilerplate
+![App Icon](https://github.com/techequilla/community_app_boilerplate/blob/master/community_app_boilerplate/assets/icon/techequilla_app_icon.jpeg)
+
 
 ![Forks](https://img.shields.io/github/forks/techequilla/community_app_boilerplate)
 ![Stars](https://img.shields.io/github/stars/techequilla/community_app_boilerplate)
@@ -7,7 +8,7 @@
 [![License](https://img.shields.io/github/license/techequilla/community_app_boilerplate)](https://github.com/techequilla/community_app_boilerplate/blob/master/LICENSE)
 [![Gitter](https://badges.gitter.im/girlscript_app/community.svg)](https://gitter.im/girlscript_app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-This is an open source project for creating a Flutter app that shall serve as a template/boilerplate for various technical communities, clubs, organizations, etc to use . 
+This is an open source project for creating a Flutter app that shall serve as a template/boilerplate for various technical communities, clubs, organizations, etc to use. 
 
 With certain modifications to the content specific to the communinity or group using this, the need to build an app from scratch and the pains of fixing bugs and figuring out what part fits where is eliminated. Feel free to use this!. If this project helps out, we would be grateful, if you could give us a mention. Also, we would love to see your version of the same! Do a give a PR for a different branch that showcases how you used this!
 
@@ -18,7 +19,7 @@ This project is also meant to be a starting for all techies interested to get th
 
 Currently this is a part of Rails Girls Summer of Code'2020
 
-## A follow up project:
+#### A follow up project:
 
 - [Link to the corresponding website template](https://github.com/techequilla/community_website_boilerplate)
 
