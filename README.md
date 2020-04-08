@@ -17,13 +17,16 @@ This project is also meant to be a starting for all techies interested to get th
 - [GirlScript Chapters App Template](https://github.com/smaranjitghose/girlscript_app)
 
 
-Currently this is a part of Rails Girls Summer of Code'2020
+Currently this is a part of Rails Girls Summer of Code'2020![RGSOC'20](https://img.shields.io/badge/RGSOC-20-red?style=for-the-badge)
+
 
 #### A follow up project:
 
 - [Link to the corresponding website template](https://github.com/techequilla/community_website_boilerplate)
 
 ## 📷 A sneak peek at the current UI of the app:
+
+![Sneak](https://media.giphy.com/media/ZXBzAsNNHNuOJCY9Gq/giphy.gif)
 
 
 - [Click here to Access it](https://www.figma.com/file/oSY2N70czTP6UhGyzZknXN/Techequilla?node-id=0%3A1)
@@ -41,12 +44,16 @@ Currently this is a part of Rails Girls Summer of Code'2020
 
 #### 👇 Prerequisites:
 
+![Pass](https://media.giphy.com/media/Z9cRCMdAMzXi25dwhE/giphy.gif)
+
 - Ability to use Git and Github is mandatory
 - Working knowledge of Dart and Flutter
 - Basic knowledge of Firebase is a plus and willingness to learn more
 - UI/UX skills are appreciable but not mandatory
 
 #### Suggested Resources for picking up on the skills:
+
+![Learn](https://media.giphy.com/media/qxsgm2X2Fb5WE/giphy.gif)
 
 - [Dart Programming](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
 - [Flutter Crash Course](https://www.youtube.com/watch?v=pTJJsmejUOQ)
@@ -59,8 +66,7 @@ Currently this is a part of Rails Girls Summer of Code'2020
 
 
 #### Steps:
-
-![RGSOC'20](https://img.shields.io/badge/RGSOC-20-red?style=for-the-badge)
+![Steps](https://media.giphy.com/media/o5BzNDDFQnepi/giphy.gif)
 
 **1.** Fork [this](https://github.com/techequilla/community_app_boilerplate) repository.
 
@@ -104,6 +110,8 @@ git push -u origin <your_branch_name>
 
 #### Tasks:
 
+![Tasks](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 - Work on different cards of the app and facilitate more features
 -  Fix Bugs
 - Improve the documentation
@@ -118,10 +126,13 @@ git push -u origin <your_branch_name>
 [Make sure you don't violate this](https://github.com/techequilla/community_app_boilerplate/blob/master/CODE_OF_CONDUCT.md)
 
 ## 👨 Project Admin
+![Adminr](https://media.giphy.com/media/26wkRxKJ9yUZzlorK/giphy.gif)
 
-- [Smaranjit Ghose](https://github.com/smaranjitghose)
+ [Smaranjit Ghose](https://github.com/smaranjitghose)
 
 ## 👬  Mentors and Project Maintainers
+
+![Project Maintainers](https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif)
 
 - [Sukkrit Sharma](https://github.com/sukkritsharmaofficial)
 - [Saswat Nayak](https://github.com/swat1998)
