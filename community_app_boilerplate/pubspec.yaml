@@ -47,13 +47,14 @@ flutter:
     - assets/icon/techequilla_app_icon_v2.png
 
   fonts:
-    - family: Montserrat
+    - family: Averta
       fonts:
-        - asset: assets/fonts/Montserrat-SemiBold.ttf
-        - asset: assets/fonts/Montserrat-Bold.ttf
+        - asset: assets/fonts/Averta_Thin.ttf
+        - asset: assets/fonts/Averta_Regular.ttf
+        - asset: assets/font/Averta_SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Averta_Bold.ttf
           weight: 700
-    - family: Poppins
-      fonts:
-        - asset: assets/fonts/Poppins-Regular.ttf
+
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
