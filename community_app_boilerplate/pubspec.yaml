@@ -10,13 +10,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_spinkit: ^4.1.2+1
-  bordered_text: ^1.0.0
-  carousel_slider: ^1.4.1
-  speech_to_text: ^2.0.1
-  firebase_analytics: ^5.0.2
-  firebase_auth: ^0.14.0+5
-  cloud_firestore: ^0.12.9+5
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -42,19 +35,6 @@ flutter:
   uses-material-design: true
 
 
-  assets:
-    - assets/icon/techequilla_app_icon.jpeg
-    - assets/icon/techequilla_app_icon_v2.png
-
-  fonts:
-    - family: Averta
-      fonts:
-        - asset: assets/fonts/Averta_Thin.ttf
-        - asset: assets/fonts/Averta_Regular.ttf
-        - asset: assets/font/Averta_SemiBold.ttf
-          weight: 600
-        - asset: assets/fonts/Averta_Bold.ttf
-          weight: 700
-
+ 
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
