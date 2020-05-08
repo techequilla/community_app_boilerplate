@@ -1,5 +1,4 @@
-![App Icon](https://github.com/techequilla/community_app_boilerplate/blob/master/community_app_boilerplate/assets/icon/techequilla_app_icon.jpeg)
-
+# Community App Boilerplate
 
 ![Forks](https://img.shields.io/github/forks/techequilla/community_app_boilerplate)
 ![Stars](https://img.shields.io/github/stars/techequilla/community_app_boilerplate)
@@ -136,7 +135,6 @@ git push -u origin <your_branch_name>
 
 ![Project Maintainers](https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif)
 
-- [Sukkrit Sharma](https://github.com/sukkritsharmaofficial)
 - [Saswat Nayak](https://github.com/swat1998)
 - [Ousnik Polley](https://github.com/ousnik)
 - [Anush Bhatia](https://github.com/anushbhatia)
