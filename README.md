@@ -141,4 +141,6 @@ git push -u origin <your_branch_name>
 
 # License 📜
 
+![License](https://user-images.githubusercontent.com/22770735/92947503-b730c880-f475-11ea-8f8b-e5e1bdaef552.gif)
+
 [MIT License](https://github.com/techequilla/community_app_boilerplate/blob/master/LICENSE)
